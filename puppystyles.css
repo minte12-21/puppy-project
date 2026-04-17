@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 100%;
+}
+.mnte {
+    background-color: blue;
+}
+.mnte h1 {
+    color: white;
+}
+.secondphrase {
+    font-size: 25px;
+}
+.thephrase {
+    background-color: red;
+    color: #fff;
+}
+@media(min-width: 992px){
+    .secondphrase {
+    font-size: 45px;
+    }
+}
